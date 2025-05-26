@@ -1,7 +1,0 @@
-This is a Walkthrough to set up and use The NMAP and Wireshark.
-In this walkthrough we are using a TryHackMe vulnerable machine.
-Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform scanning on any IP/URL without permission.
-1.First lets install our tools.
-  •Nmap:-
-    	I.To download Nmap lets go to its official Github page:- https://github.com/nmap/nmap
-      ![Image](https://github.com/user-attachments/assets/bfdc98e0-de0b-4f79-9a72-c83df468f23e)

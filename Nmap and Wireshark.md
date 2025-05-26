@@ -5,7 +5,7 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
     •Nmap:-
 	    -To download Nmap lets go to its official Github page:- https://github.com/nmap/nmap
 	-Click on the Code (Green button) and copy the url.
- ![Image](https://github.com/user-attachments/assets/ec79b330-2041-4563-b65d-1768edde91c4)
+	 ![Image](https://github.com/user-attachments/assets/ec79b330-2041-4563-b65d-1768edde91c4)
         
 -Type the Code in your terminal:- git clone url-you-copied
 	    -Your nmap is successfully installed.

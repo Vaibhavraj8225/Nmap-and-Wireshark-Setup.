@@ -7,7 +7,7 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
         ![Image](https://github.com/user-attachments/assets/bfdc98e0-de0b-4f79-9a72-c83df468f23e)
 
    -Click on the Code (Green button) and copy the url.
-        ![Image](https://github.com/user-attachments/assets/ac5a655c-d836-43dd-98d0-24930826a988)
+        
   
 -Type the Code in your terminal:- git clone url-you-copied
 	    -Your nmap is successfully installed.
@@ -16,20 +16,20 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
 	
 •Wireshark:-
    -To download Wireshark lets go to its official Github page:- https://github.com/wireshark/wireshark
-        ![Image](https://github.com/user-attachments/assets/10545aa4-528b-497e-87b4-70614ed1af79)
+       ![Image](https://github.com/user-attachments/assets/ac5a655c-d836-43dd-98d0-24930826a988)
  
   -Follow the same procedure clone it using the url in your terminal.
-        ![Image](https://github.com/user-attachments/assets/6a99f95a-ee76-4af2-b421-b00e695c8f60)
+        ![Image](https://github.com/user-attachments/assets/10545aa4-528b-497e-87b4-70614ed1af79)
 
 
 2.	Now that we have installed Nmap and Wireshark lets do some basic scans and capture the packets. 
-    ![Image](https://github.com/user-attachments/assets/97834b8a-8955-4a1e-8fd5-cd03d6bfc36e)
+     ![Image](https://github.com/user-attachments/assets/6a99f95a-ee76-4af2-b421-b00e695c8f60)
 
 3.	We can see the basic syntax for nmap:- nmap ip.
     •	The Scan shows the open ports which are:- 22 and  80.
 
 4.	Let’s do some advanced attacks.
-    ![Image](https://github.com/user-attachments/assets/f4373098-65cf-41c5-89e5-6fd0f65aba34)
+   ![Image](https://github.com/user-attachments/assets/97834b8a-8955-4a1e-8fd5-cd03d6bfc36e)
 
     •In this scan we have used some flags like –d –v –sV and –p-.
     •-d is for debugging.
@@ -43,7 +43,7 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
     •We also has 22 SSH port open which is used to connect to any device remotely. SSH is a secure protocol but if someone knows any username and password they can use it to take reverse shell using it.
 
 6.	Lets open Wireshark in the backgroud for packet sniffing and run the Nmap scan .
- 
+ 	 ![Image](https://github.com/user-attachments/assets/f4373098-65cf-41c5-89e5-6fd0f65aba34)
 
 7.	You can also use filters to filter out the packets.
     •We have used tcp.port==80 udp.port=80. Using this filter we can filter out all the tcp and packets transferred using port 80.

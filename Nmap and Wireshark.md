@@ -4,14 +4,13 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
 1.First lets install our tools.
     •Nmap:-
 	    -To download Nmap lets go to its official Github page:- https://github.com/nmap/nmap
-        ![Image](https://github.com/user-attachments/assets/bfdc98e0-de0b-4f79-9a72-c83df468f23e)
-
-   -Click on the Code (Green button) and copy the url.
+	-Click on the Code (Green button) and copy the url.
+ ![Image](https://github.com/user-attachments/assets/ec79b330-2041-4563-b65d-1768edde91c4)
         
-  
 -Type the Code in your terminal:- git clone url-you-copied
 	    -Your nmap is successfully installed.
 	    -You can access by typing “nmap” in your terminal.
+     ![Image](https://github.com/user-attachments/assets/bfdc98e0-de0b-4f79-9a72-c83df468f23e)
 
 	
 •Wireshark:-

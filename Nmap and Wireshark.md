@@ -43,9 +43,8 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
     •We also has 22 SSH port open which is used to connect to any device remotely. SSH is a secure protocol but if someone knows any username and password they can use it to take reverse shell using it.
 
 6.	Lets open Wireshark in the backgroud for packet sniffing and run the Nmap scan .
-    ![Image](https://github.com/user-attachments/assets/b6e3ff02-fa07-42b1-b89b-6e2080c33887)
  
 
 7.	You can also use filters to filter out the packets.
     •We have used tcp.port==80 udp.port=80. Using this filter we can filter out all the tcp and packets transferred using port 80.
- 
+ 	 ![Image](https://github.com/user-attachments/assets/b6e3ff02-fa07-42b1-b89b-6e2080c33887)

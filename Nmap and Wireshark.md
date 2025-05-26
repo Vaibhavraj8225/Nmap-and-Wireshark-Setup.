@@ -6,19 +6,19 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
 	    -To download Nmap lets go to its official Github page:- https://github.com/nmap/nmap
         ![Image](https://github.com/user-attachments/assets/bfdc98e0-de0b-4f79-9a72-c83df468f23e)
 
-        -Click on the Code (Green button) and copy the url.
+   -Click on the Code (Green button) and copy the url.
         ![Image](https://github.com/user-attachments/assets/ac5a655c-d836-43dd-98d0-24930826a988)
   
-	    -Type the Code in your terminal:- git clone url-you-copied
+-Type the Code in your terminal:- git clone url-you-copied
 	    -Your nmap is successfully installed.
 	    -You can access by typing “nmap” in your terminal.
 
 	
-    •Wireshark:-
-        -To download Wireshark lets go to its official Github page:- https://github.com/wireshark/wireshark
+•Wireshark:-
+   -To download Wireshark lets go to its official Github page:- https://github.com/wireshark/wireshark
         ![Image](https://github.com/user-attachments/assets/10545aa4-528b-497e-87b4-70614ed1af79)
  
-        -Follow the same procedure clone it using the url in your terminal.
+  -Follow the same procedure clone it using the url in your terminal.
         ![Image](https://github.com/user-attachments/assets/6a99f95a-ee76-4af2-b421-b00e695c8f60)
 
 

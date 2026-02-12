@@ -45,5 +45,6 @@ Note: Do not Scan any IP or URL without permission. It is ILLEGAL to perform sca
  	 ![Image](https://github.com/user-attachments/assets/f4373098-65cf-41c5-89e5-6fd0f65aba34)
 
 7.	You can also use filters to filter out the packets.
-    •We have used tcp.port==80 udp.port=80. Using this filter we can filter out all the tcp and packets transferred using port 80.
+    •We have used tcp.port==80 udp.port=80. Using this filter we can filter out all the tcp and packets transferred using port 90.
  	 ![Image](https://github.com/user-attachments/assets/b6e3ff02-fa07-42b1-b89b-6e2080c33887)
+
